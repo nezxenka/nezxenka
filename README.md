@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/nezxenka.ru-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nezxenka.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezxenka)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nezxenka)
+[![Boosty](https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge)](https://boosty.to/nezxenka)
 
 </div>
 
