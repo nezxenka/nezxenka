@@ -21,14 +21,15 @@
 
 ---
 
-### 🥇 Языки и технологии
+### 💻 Языки и технологии
 
-| # | Язык | Уровень |
-|---|------|---------|
-| 🥇 | **Java** | Основной язык — Minecraft-плагины, боты, бэкенд |
-| 🥈 | Python | Скрипты, Telegram-боты, payment-aggregator |
-| 🥉 | ActionScript | Alternativa3D |
-| ⭐ | SQL, YAML, Gradle, Maven | Конфигурации, базы данных, сборка |
+| Язык | Уровень |
+|------|--------|
+| **Java** | Middle — основной язык, Minecraft-плагины, боты, бэкенд |
+| Python | Junior — скрипты, Telegram-боты, payment-aggregator |
+| ActionScript | Junior — Alternativa3D |
+| SQL, YAML | Junior — конфигурации, базы данных |
+| Gradle, Maven | Junior — сборка проектов |
 
 ---
 
