@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/nezxenka.ru-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nezxenka.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezxenka)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nezxenka)
-[![Boosty](https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/nezxenka)
 
 </div>
 
@@ -15,9 +14,8 @@
 
 ### 🧠 Обо мне
 
-Пишу код с начала 2023 года. Основной стек — **Java**, специализируюсь на разработке плагинов для Minecraft (Spigot/Paper). Увлекаюсь созданием производительных и лёгких решений — отсюда приставка *Lite* в названиях проектов.
+Пишу код с начала 2023 года. Основной стек — **Java**, специализируюсь на разработке плагинов для Minecraft (Spigot/Paper).
 
-- 🏢 **Alex-Group** — моя команда / студия
 - 📍 Москва, Россия
 - 🌐 [nezxenka.ru](https://nezxenka.ru)
 
@@ -54,20 +52,6 @@ No coding stats yet — start tracking with WakaTime plugin!
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-### 🔥 Избранные проекты
-
-| Проект | Описание | Язык |
-|--------|----------|------|
-| [**Shame**](https://github.com/nezxenka/Shame) | Плагин анимации бана и кастомных сообщений для Minecraft | Java |
-| [**LiteStaffChat**](https://github.com/nezxenka/LiteStaffChat) | Лёгкий чат для стаффа | Java |
-| [**LiteBinds**](https://github.com/nezxenka/LiteBinds) | Система биндов для сервера | Java |
-| [**Vault**](https://github.com/nezxenka/Vault) | Экономика и permissions | Java |
-| [**vless-core**](https://github.com/nezxenka/vless-core) | Ядро VLESS на Java | Java |
-| [**DarkBot**](https://github.com/nezxenka/DarkBot) | Универсальный бот | Java |
-| [**Alternativa3D**](https://github.com/nezxenka/Alternativa3D) | 3D-движок | ActionScript |
 
 ---
 
