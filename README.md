@@ -2,7 +2,7 @@
 
 # 👋 Aleks Kuznetsov · nezxenka
 
-### Middle Java Developer · Minecraft Plugin Maker
+### Middle Java Developer
 
 [![Website](https://img.shields.io/badge/nezxenka.ru-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nezxenka.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezxenka)
@@ -15,10 +15,13 @@
 
 ### 🧠 Обо мне
 
-Пишу код с начала 2023 года. Основной стек — **Java**, специализируюсь на разработке плагинов для Minecraft (Spigot/Paper).
+Пишу код с начала 2023 года. За это время попробовал себя в самых разных направлениях: от серверных плагинов и Telegram-ботов до сетевых протоколов и 3D-движков. Интересуюсь низкоуровневыми штуками, протоколами, производительностью и красивой архитектурой.
+
+Люблю разбирать технологии до винтика и собирать обратно. Не боюсь лезть в незнакомые языки или фреймворки — если нужно решить задачу, разберусь.
 
 - 📍 Москва, Россия
 - 🌐 [nezxenka.ru](https://nezxenka.ru)
+- 💬 Открыт к коллаборациям и интересным проектам
 
 ---
 
@@ -26,11 +29,25 @@
 
 | Язык | Уровень |
 |------|--------|
-| **Java** | Middle — основной язык, Minecraft-плагины, боты, бэкенд |
-| Python | Junior — скрипты, Telegram-боты, payment-aggregator |
-| ActionScript | Junior — Alternativa3D |
-| SQL, YAML | Junior — конфигурации, базы данных |
-| Gradle, Maven | Junior — сборка проектов |
+| **Java** | Middle — основной язык: бэкенд, плагины, боты, сетевые решения |
+| Python | Junior — скрипты, Telegram-боты, автоматизация, веб-проекты |
+| ActionScript | Junior — 3D-графика (Alternativa3D) |
+| SQL | Junior — PostgreSQL, SQLite, проектирование баз данных |
+| HTML / CSS | Junior — вёрстка, лендинги |
+| Bash | Junior — автоматизация, деплой, скрипты |
+
+**Инструменты:** Git, Gradle, Maven, Docker (базово), Linux, IntelliJ IDEA
+
+---
+
+### 🚀 Чем занимаюсь
+
+- 🔧 Разрабатываю **серверные плагины** и моды для Minecraft
+- 🤖 Пишу **Telegram-ботов** (Java/Python) — автоматизация, модерация, утилиты
+- 🛡️ Интересуюсь **сетевыми протоколами** — VLESS, прокси, туннелирование
+- 🎮 Экспериментирую с **3D-графикой** и игровыми движками
+- 🌐 Делаю **веб-сервисы** и API на Java
+- 📦 Собираю **open-source** инструменты для сообщества
 
 ---
 
