@@ -1,0 +1,30 @@
+name: WakaTime Stats
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
+jobs:
+  update-readme:
+    name: Update WakaReadme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Wakapi stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
+          BLOCKS: ⬜🟨🟩
+          COMMIT_MESSAGE: Update Wakapi stats
+          SHOW_TITLE: false
+          SECTION_NAME: waka
+          CODE_LANG: txt
+          LANG_COUNT: 5
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
