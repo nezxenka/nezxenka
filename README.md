@@ -43,8 +43,8 @@
 ### GitHub Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nezxenka&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezxenka&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nezxenka&theme=dracula" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nezxenka&theme=dracula" height="160" />
 </div>
 
 ---
