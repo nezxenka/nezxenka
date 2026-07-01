@@ -72,8 +72,4 @@ No coding stats yet — start tracking with WakaTime plugin!
 
 <!--END_SECTION:waka-->
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nezxenka&color=blueviolet&style=flat-square" />
-</div>
