@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Update WakaReadme
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -16,6 +18,7 @@ jobs:
       - name: Update Wakapi stats
         uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_30_days
           SHOW_TIME: true
