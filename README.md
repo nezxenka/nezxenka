@@ -51,8 +51,6 @@
 
 ### Время за кодом
 
-[![WakaTime](https://wakatime.com/badge/user/76cc0707-6810-4a0d-bc4e-98fa7ae118c9.svg)](https://wakatime.com/@nezxenka)
-
 <!--START_SECTION:waka-->
 
 ```txt
