@@ -56,7 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No coding stats yet — start tracking with WakaTime plugin!
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
