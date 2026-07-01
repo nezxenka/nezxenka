@@ -36,7 +36,7 @@
 | HTML / CSS | Junior — вёрстка, лендинги |
 | Bash | Junior — автоматизация, деплой, скрипты |
 
-**Инструменты:** Git, Gradle, Maven, Docker (базово), Linux, IntelliJ IDEA, VS Code, Zed, Postman, Wireshark, Figma
+**Инструменты:** Git, Gradle, Maven, Docker (базово), Linux, IntelliJ IDEA, VS Code, Zed, Postman, Wireshark, Figma, GitHub Actions, Nginx, DBeaver, Insomnia, Notion, Obsidian, Discord
 
 ---
 
