@@ -8,6 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezxenka)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nezxenka)
 [![Boosty](https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/nezxenka)
+[![StriderMC](https://img.shields.io/badge/StriderMC-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ijk1IDQ2IDMyNiA0MTIiPjxwb2x5Z29uIHBvaW50cz0iMjU2LDUxIDI2NywzNDMgMjYwLDQ1MyAxNjUsNDIzIDEwMCwzMjAgMTM0LDE5NSAxODQsMjUyIiBmaWxsPSIjZmZiMzFhIi8%2BPHBvbHlnb24gcG9pbnRzPSIyNTYsNTEgMzQwLDE5NSAzOTcsMTMwIDQxNiwzMTMgMzUxLDQyMyAyNjAsNDUzIDI2NywzNDMiIGZpbGw9IiNlODM4M2IiLz48cG9seWdvbiBwb2ludHM9IjI2NywzNDMgMzQwLDE5NSAzNTEsMzQzIDI2MCw0NTMiIGZpbGw9IiNmZjdiMWMiLz48cG9seWdvbiBwb2ludHM9IjI1OCwyNzEgMzA5LDM1NSAyNjAsNDE5IDIxMCwzNTUiIGZpbGw9IiNmZmYxYzIiLz48L3N2Zz4%3D)](https://github.com/StriderMC)
 
 <br/>
 
@@ -95,6 +96,7 @@ I'm a 17-year-old developer from Shchyolkovo, Russia. I've been writing code sin
 
 These days I mostly build websites and platforms end to end, from the interface to the backend. I care about things being fast and reliable.
 
+- Founder of [StriderMC](https://github.com/StriderMC), an open source organization building high-performance, rock-solid software for Minecraft servers
 - Building hosting for game and virtual servers with a user dashboard and admin panel
 - Making donation shops and websites for Minecraft servers
 - Frontend with TypeScript, React, Next.js and Tailwind, backend with Bun, Node.js, PostgreSQL and Redis
